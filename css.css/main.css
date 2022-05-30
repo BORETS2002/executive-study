@@ -605,11 +605,19 @@ body {
   text-align: center;
   color: #373737;
 }
+.sas {
+  width: 850px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.torquem {
+  margin: 0;
+}
 
 .testimonial-top-text {
-  width: 630px;
-  margin: 20px auto 0 auto;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -626,7 +634,7 @@ body {
   justify-content: space-around;
   list-style: none;
 
-  margin: 142px 0 86px 0;
+  margin: 122px 0 86px 0;
   padding: 0;
 }
 .nisi {
